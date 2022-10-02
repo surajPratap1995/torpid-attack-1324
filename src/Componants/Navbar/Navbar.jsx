@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from "./navbar.module.css";
 import {useNavigate} from "react-router-dom"
-import { Link  } from '@chakra-ui/react';
+import { Link  } from 'react-router-dom';
 import {BiSearchAlt2} from "react-icons/bi"
 import {BsCartCheckFill} from "react-icons/bs";
 
@@ -23,7 +23,7 @@ const Navbar = () => {
                 
                 <a href='New' className={styles.mainLink}>New</a>
                 <a href='Women' className={styles.mainLink}>Women</a>
-                <Link to="/men" className={styles.mainLink}>Men</Link>
+                <Link to="/Men" className={styles.mainLink}>Men</Link>
                 <a href='Kids' className={styles.mainLink}>Kids</a>
                 <a href='Cashmere' className={styles.mainLink}>Cashmere</a>
                 <a href='Home' className={styles.mainLink}>Home</a>
