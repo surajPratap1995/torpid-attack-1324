@@ -1,0 +1,20 @@
+export const NewData2=[
+    {
+        img:"https://www.jcrew.com/s7-img-facade/BM634_YD2125?wid=376",
+    },
+    {
+        img:"https://www.jcrew.com/s7-img-facade/AQ431_WX8499?wid=376",
+    },
+    {
+        img:"https://www.jcrew.com/s7-img-facade/AX270_NA5944?wid=376",
+    },
+    {
+        img:"https://www.jcrew.com/s7-img-facade/BA285_SU7389?wid=376",
+    },
+    {
+        img:"https://www.jcrew.com/s7-img-facade/BE554_BL7780?wid=376",
+    },
+    {
+        img:"https://www.jcrew.com/s7-img-facade/AG008_WT0002?wid=376",
+    },
+  ]
